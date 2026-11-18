@@ -1,0 +1,132 @@
+{
+ "format": "nastavnik2-kalendari",
+ "izmijenjeno": "2026-11-18T00:00:00.000Z",
+ "kalendari": {
+  "2026/2027|SŠ": {
+   "skgod": "2026/2027",
+   "vrsta": "SŠ",
+   "naziv": "Školski kalendar za srednje škole USK, 2026/27.",
+   "izvor": "Ministarstvo obrazovanja, nauke, kulture i sporta USK, 3. 7. 2026.",
+   "pocetak": "2026-09-01",
+   "krajI": "2026-12-31",
+   "pocetakII": "2027-01-25",
+   "kraj": "2027-06-07",
+   "krajZavrsni": "2027-05-03",
+   "zavrsniRazredi": [
+    "IV"
+   ],
+   "raspusti": [
+    {
+     "od": "2027-01-04",
+     "do": "2027-01-22",
+     "naziv": "Zimski raspust"
+    },
+    {
+     "od": "2027-04-05",
+     "do": "2027-04-09",
+     "naziv": "Proljetni odmor"
+    }
+   ],
+   "neradni": {
+    "2026-10-05": "Svjetski dan nastavnika",
+    "2026-11-25": "Dan državnosti BiH",
+    "2027-01-01": "Nova godina",
+    "2027-01-02": "Nova godina",
+    "2027-03-01": "Dan nezavisnosti BiH",
+    "2027-03-09": "Ramazanski bajram (prvi dan)",
+    "2027-05-01": "Međunarodni praznik rada",
+    "2027-05-02": "Međunarodni praznik rada",
+    "2027-05-16": "Kurban-bajram (prvi dan)"
+   },
+   "vjerski": {
+    "2026-12-04": "Hanuka",
+    "2026-12-25": "Katolički Božić",
+    "2027-01-07": "Pravoslavni Božić",
+    "2027-01-14": "Pravoslavna Nova godina",
+    "2027-03-28": "Uskrs",
+    "2027-05-02": "Vaskrs"
+   },
+   "radniDani": {},
+   "sluzbeno": {
+    "0": 5,
+    "1": 20,
+    "2": 21,
+    "3": 17,
+    "4": 21,
+    "5": 5,
+    "8": 22,
+    "9": 21,
+    "10": 20,
+    "11": 23
+   },
+   "izmjena": "2026-11-18T00:00:00.000Z",
+   "napomena": "zvanični kalendar MONKS USK"
+  },
+  "2026/2027|OŠ": {
+   "skgod": "2026/2027",
+   "vrsta": "OŠ",
+   "naziv": "Nastavni kalendar za osnovne škole USK, 2026/27.",
+   "izvor": "Ministarstvo obrazovanja, nauke, kulture i sporta USK, br. 10-34-8069-1/26, 26. 6. 2026.",
+   "pocetak": "2026-09-01",
+   "krajI": "2026-12-31",
+   "pocetakII": "2027-01-25",
+   "kraj": "2027-06-14",
+   "krajZavrsni": "2027-06-07",
+   "zavrsniRazredi": [
+    "I",
+    "IX"
+   ],
+   "raspusti": [
+    {
+     "od": "2026-11-02",
+     "do": "2026-11-06",
+     "naziv": "Jesenski odmor"
+    },
+    {
+     "od": "2027-01-04",
+     "do": "2027-01-22",
+     "naziv": "Zimski raspust"
+    },
+    {
+     "od": "2027-04-05",
+     "do": "2027-04-09",
+     "naziv": "Proljetni odmor"
+    }
+   ],
+   "neradni": {
+    "2026-10-05": "Dan nastavnika",
+    "2026-11-25": "Dan državnosti BiH",
+    "2027-01-01": "Nova godina",
+    "2027-01-02": "Nova godina",
+    "2027-03-01": "Dan nezavisnosti BiH",
+    "2027-03-09": "Ramazanski bajram (prvi dan)",
+    "2027-05-01": "Međunarodni praznik rada",
+    "2027-05-02": "Međunarodni praznik rada",
+    "2027-05-16": "Kurban-bajram (prvi dan)"
+   },
+   "vjerski": {
+    "2026-12-04": "Hanuka",
+    "2026-12-25": "Katolički Božić",
+    "2027-01-07": "Pravoslavni Božić",
+    "2027-01-14": "Pravoslavna Nova godina",
+    "2027-03-28": "Uskrs",
+    "2027-05-02": "Vaskrs"
+   },
+   "radniDani": {},
+   "sluzbeno": {
+    "0": 5,
+    "1": 20,
+    "2": 21,
+    "3": 17,
+    "4": 21,
+    "5": 10,
+    "8": 22,
+    "9": 21,
+    "10": 15,
+    "11": 23
+   },
+   "izmjena": "2026-11-18T00:00:00.000Z",
+   "napomena": "zvanični kalendar MONKS USK"
+  }
+ }
+}
